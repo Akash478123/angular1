@@ -87,3 +87,4 @@ npm run e2e
 6.  [Angular Data Binding](https://angular.io/guide/architecture#data-binding)	
 # angular1
 # angular1
+# assignment1

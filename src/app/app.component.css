@@ -1,0 +1,32 @@
+.panel{
+    width:30vw;
+    margin: auto;
+    margin-top: 40px;
+    border: 2px solid yellowgreen;
+   
+}
+.noteCard
+{
+    width:10vw;
+    margin:20px;
+    display: flex;
+    flex-direction: column;
+    border: 3px solid rgb(224, 240, 8);
+}
+/* .cardContain{
+    display: flex;
+    margin-top: 10px;
+
+} */
+.cardContain {
+    display: inline-flex;
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+.submitButton{
+    display:flex;
+    justify-content: flex-end;
+}.cardInput{
+    display: flex;
+    flex-direction: column;
+}
